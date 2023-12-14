@@ -4,6 +4,8 @@ Augments training data with random resized crop and random horizontal flip.
 Supports generating auxiliaru inputs - Shade and Tungsten WB images for each input in training.
 
 Author: Sai Kumar Reddy Manne
+Date: 12/03/2021.
+Class: CS 7180 Advanced Perception.
 """
 
 import glob

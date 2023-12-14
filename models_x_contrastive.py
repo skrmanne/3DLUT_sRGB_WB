@@ -2,6 +2,8 @@
 Model architecture definitions used in WB correction.
 
 Author: Sai Kumar Reddy Manne
+Date: 12/03/2021.
+Class: CS 7180 Advanced Perception.
 """
 import torch.nn as nn
 import torch.nn.functional as F

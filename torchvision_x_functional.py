@@ -1,5 +1,9 @@
 """
-Code used from 3D-LUT repo.
+Code borrowed from 3D-LUT repo.
+
+Author: Sai Kumar Reddy Manne
+Date: 12/03/2021.
+Class: CS 7180 Advanced Perception.
 """
 import collections
 import numbers

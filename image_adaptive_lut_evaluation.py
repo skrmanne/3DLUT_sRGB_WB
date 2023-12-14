@@ -3,6 +3,8 @@ Evaluation script for the 3D LUT WB correction model.
 Uses Cube dataset for evaluation, loads pretrained LUTs and classifier model for inference.
 
 Author: Sai Kumar Reddy Manne
+Date: 12/03/2021.
+Class: CS 7180 Advanced Perception.
 """
 
 import argparse

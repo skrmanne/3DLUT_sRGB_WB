@@ -11,6 +11,8 @@ Contains the following components:
     8. Save: Model checkpoints
 
 Author: Sai Kumar Reddy Manne.
+Date: 12/03/2021.
+Class: CS 7180 Advanced Perception.
 """
 import argparse
 import os

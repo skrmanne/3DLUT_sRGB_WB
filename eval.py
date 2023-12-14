@@ -6,6 +6,8 @@ Metric calculation script which takes two folders as input and calculates the fo
 Along with Q1, Q2, and Q3 values for each metric.
 
 Author: Sai Kumar Reddy Manne
+Date: 12/03/2021.
+Class: CS 7180 Advanced Perception.
 """
 import os, sys
 import cv2
