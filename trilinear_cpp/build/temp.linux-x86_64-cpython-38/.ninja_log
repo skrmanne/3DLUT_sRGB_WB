@@ -1,0 +1,5 @@
+# ninja log v5
+2	20794	1701638815075321282	/home/manne.sa/workspace/AWB/Image-Adaptive-3DLUT/trilinear_cpp/build/temp.linux-x86_64-cpython-38/src/trilinear_cuda.o	e1cf079125e14309
+176	22444	1701919290392430482	/home/manne.sa/workspace/AWB/Image-Adaptive-3DLUT/trilinear_cpp/build/temp.linux-x86_64-cpython-38/src/trilinear_cuda.o	68f1bb7033804927
+154	18286	1701919382863273568	/home/manne.sa/workspace/AWB/Image-Adaptive-3DLUT/trilinear_cpp/build/temp.linux-x86_64-cpython-38/src/trilinear_kernel.o	b93e7e738e1ac3cf
+154	29637	1701919394205967669	/home/manne.sa/workspace/AWB/Image-Adaptive-3DLUT/trilinear_cpp/build/temp.linux-x86_64-cpython-38/src/trilinear_cuda.o	285141b7346e5720
